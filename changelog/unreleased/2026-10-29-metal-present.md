@@ -5,3 +5,4 @@
   instead of a staged copy, so a compositor writing a uniform each frame adds no command buffer.
   `examples/window_scroll_cost.rs` scrolls a real window and prints its CPU, instructions and
   Metal calls per frame; `scripts/motion-audit` records a sticky-header scroll.
+
